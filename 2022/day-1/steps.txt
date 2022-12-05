@@ -1,0 +1,6 @@
+Steps to computing results with the following scripts
+
+1) Run parse.bash
+2) In the last line of input-parsed.txt, remove the extra plus sign
+3) Run compute.bash
+4) The answer will be the last number
